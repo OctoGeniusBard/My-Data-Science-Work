@@ -1,4 +1,4 @@
-# 📊 **Data Science Projects Repository**
+## 📊 **Data Science Projects Repository**
 
 Welcome to my **Data Science Projects Repository**! This repository contains a collection of various data science projects, showcasing my work across multiple domains, including **Python programming**, **Machine Learning**, **Power BI**, and **Certificates**.
 
@@ -15,4 +15,4 @@ MY-Data-Science-Projects/
   ├── Machine-Learning/           # Machine learning case studies and models
   ├── PowerBI-Projects/           # Power BI projects and dashboards
 ├── Certifications Done By Me/    # Folder containing certificates related to data science and other domains
-└── README.md                   # Repository documentation
+└── README.md                     # Repository documentation
