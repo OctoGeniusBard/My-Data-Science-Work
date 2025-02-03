@@ -63,3 +63,6 @@ You can also view the data processing and extraction steps in the ([ledger_extra
 1. **Dashboard Screenshots**: ([BNCA Data Analysis Dashboard Images](https://app.powerbi.com/view?r=eyJrIjoiZmI3NDVhYTItOWFiOC00MmM1LWExYjktNzdiNmMxNzFmZTViIiwidCI6ImNiZDUwYjFlLWYwYWEtNDMwMi05YzIzLWQ2NTU3MzQ0Y2RiZSJ9
 ))
 2. **Project Documentation**: ([BNCA Project Report PDFs](https://github.com/OctoGeniusBard/My-Data-Science-Work/tree/main/Projects%20By%20Revati%20Pawar/BNCA%20Ledger%20Extraction%20Using%20Python/BNCA%20Project%20Documents))
+
+---
+
